@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ShiAnder
-- 👀 I’m interested in software programming languages such as JAVA, PHP , SQL , JavaScript
-- 🌱 I’m currently learning software engineering at sri lanka institute of information technology.
-- 📫 I am from Galle in Sri lanka
+
 
 - Email - withanageshihan@gmail.com
 - Facebook - https://www.facebook.com/shihan.bhagya
