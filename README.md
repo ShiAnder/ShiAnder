@@ -1,8 +1,8 @@
 
 
-- Email - withanageshihan@gmail.com
-- Facebook - https://www.facebook.com/shihan.bhagya
-- Instagram - https://www.instagram.com/shiha_withanage
+Email - withanageshihan@gmail.com
+Facebook - https://www.facebook.com/shihan.bhagya
+Instagram - https://www.instagram.com/shiha_withanage
   
 
 <!---
