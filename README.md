@@ -1,6 +1,6 @@
 
 
-# Welcome to My GitHub Profile! 👋
+# Welcome
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
