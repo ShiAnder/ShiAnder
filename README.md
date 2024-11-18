@@ -1,12 +1,10 @@
 # Welcome
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+Wijesekara Withanage Shihan Bhagya
+🎓 Recent Graduate | Skilled Software Engineer
+🔧 Proficient in: Java, PHP, Laravel, Spring Boot, Web Development, Database Design
+💻 Passionate About: Building innovative solutions, writing clean and efficient code, and collaborating to achieve impactful results.
+📁 Experience:
 
-I am a recent graduate and a skilled software engineer with a strong foundation in Java, PHP, and webdevelopment frameworks like Laravel and Spring Boot. I have experience in coding, database design,and project documentation through academic projects and internships. I am passionate aboutdelivering innovative solutions and eager to contribute to impactful results in a collaborativeenvironment.
-
-## 📫 Contacts
-- **Email:** [withanageshihan@gmail.com](mailto:withanageshihan@gmail.com)
-- **GitHub:** [ShiAnder](https://github.com/ShiAnder)
-- **LinkedIn:** [Wijesekara Withanage Shihan Bhagya](linkedin.com/in/shihan-withanage-3a930a162)
-
-Feel free to explore my projects and connect with me on social media. Let's collaborate and build amazing software together!
+Developed and implemented robust software solutions in academic projects and internships.
+Expertise in coding, database design, and detailed project documentation.free to explore my projects and connect with me on social media. Let's collaborate and build amazing software together!
